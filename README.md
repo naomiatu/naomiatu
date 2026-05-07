@@ -1,6 +1,6 @@
 # Naomi Gbadamosi Ige
 ### Software Development | Infrastructure & Security | Full-Stack Systems
-**ATU Galway | Class of 2026**
+**ATU Galway | Expected Graduation: 2026**
 
 ---
 
@@ -25,21 +25,16 @@ Software Development student with a focus on high-integrity systems and network 
 
 ---
 
----
+### System Performance & Metrics
 
-### GitHub Metrics
-![Naomi's Stats](https://github-readme-stats.vercel.app/api?username=naomiatu&show_icons=true&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naomiatu&layout=compact&theme=dark&hide_border=false)
-
-#### Activity and Commitment Trends
-![Naomi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naomiatu&theme=dracula&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naomiatu&theme=dark&hide_border=true)
-
----
+| Technical Statistics | Activity Trends |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.shion.dev/api?username=naomiatu&show_icons=true&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naomiatu&theme=dark) |
+| ![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=naomiatu&layout=compact&theme=dark) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=naomiatu&theme=dracula&hide_border=true) |
 
 ---
 
 ### Communication & Verification
 * **Institutional Email:** G00470124@atu.ie
-* **LinkedIn:** [linkedin.com/in/naomi-ige]([https://linkedin.com/in/naomi-ige](https://www.linkedin.com/in/naomi-ige-9b049a331/))
+* **LinkedIn:** [linkedin.com/in/naomi-ige](https://www.linkedin.com/in/naomi-ige-9b049a331/)
 * **Professional Portfolio:** [naomi-ige.github.io](https://naomi-ige.github.io)
