@@ -1,4 +1,4 @@
-# Naomi Gbadamosi Ige
+# Naomi Ige
 ### Software Development | Infrastructure & Security | Full-Stack Systems
 **ATU Galway | Expected Graduation: 2028**
 
