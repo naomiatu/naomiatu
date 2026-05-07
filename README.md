@@ -37,4 +37,4 @@ Software Development student with a focus on high-integrity systems and network 
 ### Communication & Verification
 * **Institutional Email:** G00470124@atu.ie
 * **LinkedIn:** [linkedin.com/in/naomi-ige](https://www.linkedin.com/in/naomi-ige-9b049a331/)
-* **Professional Portfolio:** [naomi-ige.github.io](https://naomi-ige.github.io)
+* **Professional Portfolio:** [naomi-ige.github.io](file:///Users/naomiige/Downloads/naomi_portfolio%20(1).html)
